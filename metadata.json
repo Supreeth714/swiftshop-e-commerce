@@ -1,0 +1,8 @@
+{
+  "name": "SwiftShop E-Commerce",
+  "description": "A comprehensive e-commerce platform with multi-role dashboards for buyers and sellers, secure payments, and real-time order tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
